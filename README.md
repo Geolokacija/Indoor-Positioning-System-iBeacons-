@@ -1,5 +1,7 @@
 # Indoor-Positioning-System
 The main purpose of this project is to receive data from the web server, process the received data and convert data to the correct format, to use for the trilateration library. After that, use the trilateration library to perform calculations to determine the location of the object in the canvas window.
+
+![alt text](http://bits.citrusbyte.com/images/posts/2015-02-23-beacons-trilateration.png)
  
 ## Prerequisites
 * Internet connection
